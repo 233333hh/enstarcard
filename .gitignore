@@ -1,0 +1,20 @@
+dist
+node_modules
+.DS_Store
+tmp
+npm-debug.log
+
+# umi
+.umi
+.umi-production
+package-lock.json
+
+# idea
+.idea
+
+# tmp
+.tmp
+
+.eslintignore
+.eslintrc
+.editorconfig
